@@ -112,7 +112,7 @@ https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:-1 tvg-id="ZDFneo.de@HD" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="Undefined",ZDFneo HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:-1 tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Undefined",RTL HD
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Undefined",RTL Zwei HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Undefined",RTL Super
@@ -164,7 +164,6 @@ https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 #EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de@HD" tvg-logo="https://i.imgur.com
 #EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Undefined",Rai 1 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-id="Rai2.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" http-referrer="https://babaktv.com/" group-title="Undefined",Rai 2 HD
 #EXTVLCOPT:http-referrer=https://babaktv.com/
 https://m3u.iranvids.com/rai02/output.m3u8
